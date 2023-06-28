@@ -1,5 +1,5 @@
 # ⭐ Project - Calculator ⭐
-🔗 [Project Link](https://js-arithmatic-calculator.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/calculator/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
